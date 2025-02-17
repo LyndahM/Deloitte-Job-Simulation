@@ -5,3 +5,13 @@ The objective of this project was to analyse telemetry data collected from Daiki
 ## Dataset
 - <a href="https://github.com/LyndahM/Deloitte-Job-Simulation/blob/main/daikibo-telemetry-data.json.zip">Daikibo telemetry data</a>
 - <a href="https://github.com/LyndahM/Deloitte-Job-Simulation/blob/main/Equality%20Table.xlsx">Equality data</a>
+
+## Key Questions
+Which Daikibo factory experienced the most machine breakdowns?
+What were the most frequently failing machine types in that location?
+How do pay equality scores vary across different job roles and factory locations?
+
+#Tools Used:
+
+Excel: Data cleaning, transformation, calculations, and categorization.
+Tableau: Data visualization and dashboard creation.
