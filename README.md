@@ -42,21 +42,9 @@ Tableau: Data visualization and dashboard creation.
     - `Fair` (±10)
     - `Unfair` (<-10 OR >10)
     - `Highly Discriminative` (<-20 OR >20)
-
-- **Visualization in Tableau**
-  - **Bar Chart**: Equality Score by Factory.
-  - **Heatmap**: Pay disparity by Factory & Job Role.
-  - **Box Plot**: Equality score distribution by factory.
-
-- **Identifying Pay Disparities**
-  - Highlighted **factories and job roles** with the most inequality.
-  - Recommended **salary standardization & transparency policies**.
  
 ## Insights & Recommendations
-- **Integrated charts into a single interactive dashboard.**
-- **Enabled factory-level filtering** to analyze specific locations.
-- **Derived actionable insights** on machine failures and pay fairness.
-- **Telemetry Analysis **: The factory with the highest machine breakdowns was identified, along with the most problematic machine types. These insights can help the company optimize maintenance schedules and improve operational efficiency.
+- **Telemetry Analysis**: The factory with the highest machine breakdowns was identified, along with the most problematic machine types. These insights can help the company optimize maintenance schedules and improve operational efficiency.
 - **Gender Pay Analysis**: Disparities in pay equality were visualized, highlighting areas where Daikibo needs to address salary gaps to promote fairness in compensation.
 
 
