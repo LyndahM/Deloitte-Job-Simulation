@@ -7,9 +7,9 @@ The objective of this project was to analyse telemetry data collected from Daiki
 - <a href="https://github.com/LyndahM/Deloitte-Job-Simulation/blob/main/Equality%20Table.xlsx">Equality data</a>
 
 ## Key Questions
-- 1.Which Daikibo factory experienced the most machine breakdowns?
-- 2.What were the most frequently failing machine types in that location?
-- 3.How do pay equality scores vary across different job roles and factory locations?
+ 1.Which Daikibo factory experienced the most machine breakdowns?
+ 2.What were the most frequently failing machine types in that location?
+ 3.How do pay equality scores vary across different job roles and factory locations?
 
 ## Tools Used
 
