@@ -11,7 +11,7 @@ Which Daikibo factory experienced the most machine breakdowns?
 What were the most frequently failing machine types in that location?
 How do pay equality scores vary across different job roles and factory locations?
 
-#Tools Used:
+## Tools Used
 
 Excel: Data cleaning, transformation, calculations, and categorization.
 Tableau: Data visualization and dashboard creation.
