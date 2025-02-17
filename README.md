@@ -18,12 +18,13 @@ Tableau: Data visualization and dashboard creation.
 
 ## Key Steps and Process:
 1.	Telemetry Data Analysis:
-o	Imported and cleaned the telemetry dataset.
-o	Created a calculated measure field "Unhealthy" in Tableau to quantify machine downtime.
-o	Developed a bar chart titled "Down Time per Factory" to compare factory performance.
-o	Created a secondary bar chart, "Down Time per Device Type," to analyze machine failures.
-o	Built a Tableau dashboard combining both charts, enabling interactive filtering by factory.
-o	Selected the factory with the highest downtime and submitted a screenshot of the dashboard.
+•	Imported and cleaned the telemetry dataset.
+•	Created a calculated measure field "Unhealthy" in Tableau to quantify machine downtime.
+•	Developed a bar chart titled "Down Time per Factory" to compare factory performance.
+•	Created a secondary bar chart, "Down Time per Device Type," to analyze machine failures.
+•	Built a Tableau dashboard combining both charts, enabling interactive filtering by factory.
+•	Selected the factory with the highest downtime and submitted a screenshot of the dashboard.
+
 2.	Gender Pay Equality Analysis:
 o	Processed the "Equality Table.xlsx" dataset, which contained Factory, Job Role, and Equality Score columns.
 o	Created a fourth column (Equality Class) in Excel to classify the equality scores into: 
