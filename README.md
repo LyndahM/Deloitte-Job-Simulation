@@ -56,8 +56,8 @@ Tableau: Data visualization and dashboard creation.
 - **Integrated charts into a single interactive dashboard.**
 - **Enabled factory-level filtering** to analyze specific locations.
 - **Derived actionable insights** on machine failures and pay fairness.
-- **Telemetry Analysis: The factory with the highest machine breakdowns was identified, along with the most problematic machine types. These insights can help the company optimize maintenance schedules and improve operational efficiency.
-•	Gender Pay Analysis: Disparities in pay equality were visualized, highlighting areas where Daikibo needs to address salary gaps to promote fairness in compensation.
+- **Telemetry Analysis **: The factory with the highest machine breakdowns was identified, along with the most problematic machine types. These insights can help the company optimize maintenance schedules and improve operational efficiency.
+- **Gender Pay Analysis**: Disparities in pay equality were visualized, highlighting areas where Daikibo needs to address salary gaps to promote fairness in compensation.
 
 
 ## Project Outcome
